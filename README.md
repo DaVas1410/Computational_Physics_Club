@@ -29,7 +29,7 @@ We are hosting a **Computational Physics Hackathon** on **May 16, 2025**. The ev
 ├── 📁 Resources          # Tutorials, books, and learning materials
 ├── 📁 Meetings           # Meeting notes and presentations
 ├── 📁 Hackathon          # Hackathon challenges and submissions
-├── 📁 Arxic              # Previous Years Club Work
+├── 📁 Arxiv              # Previous Years Club Work
 └── README.md             # You are here!
 ```
 
