@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/2016333726_1343601840_223132457.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_667144672_1984096084.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_897548932_2729765666.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_667144672_3496779374.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_3690386077_613327044.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_667144672_146286863.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_4257926621_1709318232.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_667144672_1535547531.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_184834602_1469747199.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/OpeningManim/543634251_667144672_2427782908.mp4'

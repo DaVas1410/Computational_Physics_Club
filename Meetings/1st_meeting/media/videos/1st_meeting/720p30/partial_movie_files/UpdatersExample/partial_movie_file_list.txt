@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/UpdatersExample/2016333726_1494724381_1514382030.mp4'
+file 'file:/home/davas/Documents/Computational_Physics_Club/Meetings/1st_meeting/media/videos/1st_meeting/720p30/partial_movie_files/UpdatersExample/543634251_667144672_2711058281.mp4'
